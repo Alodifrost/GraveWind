@@ -1,1 +1,5 @@
-2024/09/02-15:45:23.229 fe8 Delete type=3 #1
+2024/09/02-18:22:56.340 cc8 Delete type=3 #1
+2024/09/02-18:32:08.487 60ac Level-0 table #5: started
+2024/09/02-18:32:08.494 60ac Level-0 table #5: 228406 bytes OK
+2024/09/02-18:32:08.496 60ac Delete type=0 #3
+2024/09/02-18:32:08.506 60ac Manual compaction at level-0 from '!adventures!XVmm7UtFDI2IrdOa' @ 72057594037927935 : 1 .. '!adventures!XVmm7UtFDI2IrdOa' @ 0 : 0; will stop at (end)
