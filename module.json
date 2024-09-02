@@ -1,0 +1,52 @@
+{
+  "id": "gravewindhistory",
+  "title": "GraveWindHistory",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "ru-ru",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "laaru-dnd5-hw",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Моё первое приключение^^",
+  "authors": [
+    {
+      "name": "Apex",
+      "discord": "Alodiz",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "gravewind-mod",
+      "label": "GraveWind-mod",
+      "path": "packs/gravewind-mod",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
